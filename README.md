@@ -4,9 +4,9 @@
 
 ### Socials
 <p align="center">
-<a href="https://twitter.com/justvibes401"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://www.linkedin.com/in/uzochukwuprecious"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:p.uzor99@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://twitter.com/#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/christopher-uzochukwu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:c.uzor@yahoo.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 <hr>
 
@@ -16,14 +16,14 @@
 </p>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on lots of cool projects
+- 🌱 I’m currently learning Docker/Kubernetes
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help on understanding intricacies of low level languages
+- 💬 Ask me about Software engineering, Politics, Football and History
+- 📫 How to reach me: +2348143306630
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy cooking
 
 <hr>
 
