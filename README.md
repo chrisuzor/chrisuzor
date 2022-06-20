@@ -17,7 +17,7 @@
 
 
 - 🔭 I’m currently working on lots of cool projects
-- 🌱 I’m currently learning Docker/Kubernetes, Java(Spring Boot)
+- 🌱 I’m currently learning Docker/Kubernetes, Java(Spring Boot), React, Vue
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help on understanding intricacies of low level languages
 - 💬 Ask me about Software engineering, Politics, Football and History
