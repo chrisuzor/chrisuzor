@@ -12,7 +12,7 @@
 
 ### Bio
 <p>
-  Innovative Backend Engineer with 5 years of experience in building APIs and maintaining existing codebase. Demonstrated talent for front and back-end web development to optimize online presence. Seasoned expert in languages such as PHP, Python, Java, Javascript as well as their various frameworks (Laravel, Flask, DJango, Fast API, Spring, NodeJS, Express JS.
+  Innovative Backend Engineer with 5 years of experience in building APIs and maintaining existing codebase. Demonstrated talent for front and back-end web development to optimize online presence. Seasoned expert in languages such as PHP, Python, Java, Javascript as well as their various frameworks Laravel, Flask, DJango, Fast API, Spring, NodeJS, Express JS e.t.c.
   Also learning front end langauages like React and Vue.
 </p>
 
