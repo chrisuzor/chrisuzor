@@ -15,6 +15,3 @@ evaluation pipelines for Anthropic.
 - **Architecture:** Microservices, Event-driven systems, 
   Real-time platforms, Kafka, RabbitMQ
 - **Security:** OAuth2, OIDC/JWT, SAML
-
-📫 christopheruzochukwu8@gmail.com  
-🌐 linkedin.com/in/christopher-uzochukwu
