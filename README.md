@@ -1,12 +1,11 @@
 ### Hi there 👋🏾
 
-Senior Backend Engineer & Solutions Architect with 8+ years 
+Senior Backend Engineer & Solutions Architect with 9+ years 
 building distributed systems, event-driven microservices, and 
 cloud-native platforms at scale.
 
 Currently learning machine learning, and previously architected real-time 
-field operations platforms, EV charging backends, and AI 
-evaluation pipelines for Anthropic.
+field operations platforms and EV charging backends.
 
 **What I work with:**
 - **Languages:** Go, Python, .NET (C#), Node.js, Java, PHP
